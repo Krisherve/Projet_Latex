@@ -19,6 +19,30 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Foer2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ee721b5041045087b6c851560fbd2cb8}{%
+           family={Foer},
+           familyi={F\bibinitperiod},
+           given={Franklin},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Group}%
+      }
+      \strng{namehash}{ee721b5041045087b6c851560fbd2cb8}
+      \strng{fullhash}{ee721b5041045087b6c851560fbd2cb8}
+      \strng{bibnamehash}{ee721b5041045087b6c851560fbd2cb8}
+      \strng{authorbibnamehash}{ee721b5041045087b6c851560fbd2cb8}
+      \strng{authornamehash}{ee721b5041045087b6c851560fbd2cb8}
+      \strng{authorfullhash}{ee721b5041045087b6c851560fbd2cb8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{World Without Mind}
+      \field{year}{2018}
+    \endentry
     \entry{Smyrnaios2017}{article}{}
       \name{author}{1}{}{%
         {{hash=464833b7a4358c97f8bbb478976f3646}{%
@@ -40,6 +64,54 @@
       \field{journaltitle}{INA Editions}
       \field{title}{Les GAFAM contre l’Internet. Une économie politique du numérique}
       \field{year}{2017}
+    \endentry
+    \entry{Webb2019}{book}{}
+      \name{author}{1}{}{%
+        {{hash=812cec02825c5a935bd883315fcdc321}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PublicAffairs}%
+      }
+      \strng{namehash}{812cec02825c5a935bd883315fcdc321}
+      \strng{fullhash}{812cec02825c5a935bd883315fcdc321}
+      \strng{bibnamehash}{812cec02825c5a935bd883315fcdc321}
+      \strng{authorbibnamehash}{812cec02825c5a935bd883315fcdc321}
+      \strng{authornamehash}{812cec02825c5a935bd883315fcdc321}
+      \strng{authorfullhash}{812cec02825c5a935bd883315fcdc321}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity}
+      \field{year}{2019}
+    \endentry
+    \entry{Zuboff2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=19b83c33a232c9892502d941e4cfcf56}{%
+           family={Zuboff},
+           familyi={Z\bibinitperiod},
+           given={Shoshana},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zulma}%
+      }
+      \strng{namehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{fullhash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{bibnamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authorbibnamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authornamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authorfullhash}{19b83c33a232c9892502d941e4cfcf56}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Age of Surveillance Capitalism}
+      \field{year}{2020}
     \endentry
   \enddatalist
 \endrefsection
