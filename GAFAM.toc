@@ -1,12 +1,13 @@
 \xpginauxfiletrue 
 \selectlanguage *{french}
 \contentsline {section}{\numberline {1}\underline {Introduction}}{2}{section.1}%
-\contentsline {section}{\numberline {2}\underline {Concentration du Pouvoir}}{3}{section.2}%
-\contentsline {section}{\numberline {3}\underline {Protection de la Vie Privée}}{4}{section.3}%
-\contentsline {section}{\numberline {4}\underline {Influence sur l'Opinion Publique}}{5}{section.4}%
-\contentsline {section}{\numberline {5}\underline {Régulation et Législation} }{6}{section.5}%
+\contentsline {section}{\numberline {2}\underline {Concentration du Pouvoir}}{4}{section.2}%
+\contentsline {section}{\numberline {3}\underline {Protection de la Vie Privée}}{5}{section.3}%
+\contentsline {section}{\numberline {4}\underline {Influence sur l'Opinion Publique}}{6}{section.4}%
+\contentsline {section}{\numberline {5}\underline {Régulation et Législation} }{7}{section.5}%
 \contentsline {section}{\numberline {6}\underline {Censure et Liberté d'Expression}}{7}{section.6}%
 \contentsline {section}{\numberline {7}\underline {Dépendance Économique}}{8}{section.7}%
 \contentsline {section}{\numberline {8}Conclusion}{9}{section.8}%
-\contentsline {section}{\numberline {9}Conclusion}{9}{section.9}%
+\contentsline {section}{\numberline {9}Articles lus}{10}{section.9}%
+\contentsline {section}{\numberline {10}Remerciements}{10}{section.10}%
 \xpginauxfilefalse 

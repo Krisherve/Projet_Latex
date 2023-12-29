@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.12)  22 DEC 2023 12:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.22)  29 DEC 2023 19:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -795,13 +795,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-)
+ [1
+
+])
 \tf@toc=\write5
 \openout5 = `GAFAM.toc'.
 
- [1
-
-]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 41.
 
@@ -938,6 +937,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 122.
 
+[6]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 126.
@@ -962,19 +962,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 126.
 
-
-Overfull \hbox (185.83202pt too wide) in paragraph at lines 128--129
-\TU/lmr/m/n/12 cat entre la nécessité de réguler le discours en ligne et le $[]
-$
- []
-
-[6]
-Overfull \hbox (8.78354pt too wide) in paragraph at lines 132--133
-[] [] [][] [] [][][][][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][] [] [
-][][][][][] [] [][][][] [] [][][][][][][][][][][][] [] [] [] [][][][][]$[]\TU/l
-mr/m/n/12 .
- []
-
+[7]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 138.
@@ -999,7 +987,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 138.
 
-[7]
 Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
 xt;!
 Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
@@ -1017,10 +1004,30 @@ Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-t
 xt;!
 Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
 xt;!
+[9]
 Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
 xt;!
 Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
 xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+[10]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1095,24 +1102,33 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {canadien/target}  =>  {french}
 >  {canadien/variant}  =>  {canadian}
 >  {canadien/options}  =>  {variant=canadian}.
-[9] (GAFAM.aux)
+ [11] (GAFAM.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `GAFAM.out' has not changed.
-(rerunfilecheck)             Checksum: 80D5E8FEE297B4EB495E6BB2FD14D07B;1418.
+(rerunfilecheck)             Checksum: 2A49A8A7A53610675B5C1FE3667A3D92;1541.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                GAFAM
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'GAFAM.run.xml'.
 \openout1 = `GAFAM.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19923 strings out of 409622
- 408022 string characters out of 5774091
- 1936122 words of memory out of 5000000
- 41828 multiletter control sequences out of 15000+600000
- 563136 words of font info for 70 fonts, out of 8000000 for 9000
+ 19931 strings out of 409622
+ 408450 string characters out of 5774091
+ 1937122 words of memory out of 5000000
+ 41838 multiletter control sequences out of 15000+600000
+ 563128 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,8n,93p,809b,5282s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on GAFAM.pdf (9 pages).
+Output written on GAFAM.pdf (11 pages).

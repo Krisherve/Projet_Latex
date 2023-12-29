@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'GAFAM.blg'
-[169] biber-MSWIN64:340> INFO - === 
-[219] Biber.pm:419> INFO - Reading 'GAFAM.bcf'
-[363] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[381] Biber.pm:4419> INFO - Processing section 0
-[396] Biber.pm:4610> INFO - Looking for bibtex file 'gafam.bib' for section 0
-[445] bibtex.pm:1713> INFO - LaTeX decoding ...
-[455] bibtex.pm:1519> INFO - Found BibTeX data source 'gafam.bib'
-[506] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[506] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[506] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'fr-FR'
-[506] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
-[512] bbl.pm:660> INFO - Writing 'GAFAM.bbl' with encoding 'UTF-8'
-[514] bbl.pm:763> INFO - Output to GAFAM.bbl
+[124] biber-MSWIN64:340> INFO - === 
+[163] Biber.pm:419> INFO - Reading 'GAFAM.bcf'
+[284] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
+[301] Biber.pm:4419> INFO - Processing section 0
+[315] Biber.pm:4610> INFO - Looking for bibtex file 'gafam.bib' for section 0
+[364] bibtex.pm:1713> INFO - LaTeX decoding ...
+[373] bibtex.pm:1519> INFO - Found BibTeX data source 'gafam.bib'
+[430] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[431] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[431] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'fr-FR'
+[431] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
+[437] bbl.pm:660> INFO - Writing 'GAFAM.bbl' with encoding 'UTF-8'
+[441] bbl.pm:763> INFO - Output to GAFAM.bbl
