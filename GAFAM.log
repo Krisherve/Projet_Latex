@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.22)  1 JAN 2024 11:47
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.22)  1 JAN 2024 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1017,6 +1017,7 @@ Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-t
 xt;!
 Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
 xt;!
+[10]
 Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
 xt;!
 Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
@@ -1101,7 +1102,7 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {canadien/target}  =>  {french}
 >  {canadien/variant}  =>  {canadian}
 >  {canadien/options}  =>  {variant=canadian}.
-[10] (GAFAM.aux)
+[11] (GAFAM.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
@@ -1116,8 +1117,8 @@ Package rerunfilecheck Warning: File `GAFAM.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `GAFAM.out':
-(rerunfilecheck)             Before: 2A49A8A7A53610675B5C1FE3667A3D92;1541
-(rerunfilecheck)             After:  CAE99902E4C05F23A5DEDD2E4DE45183;1431.
+(rerunfilecheck)             Before: CAE99902E4C05F23A5DEDD2E4DE45183;1431
+(rerunfilecheck)             After:  04A3EB3C39A533EF9D43F329C153AD66;1536.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                GAFAM
@@ -1136,4 +1137,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  79i,8n,93p,809b,5282s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on GAFAM.pdf (10 pages).
+Output written on GAFAM.pdf (11 pages).
